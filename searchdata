@@ -1,0 +1,350 @@
+[
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "air ticket",
+        "sizeId": 49500,
+        "month": "2020-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "airport transfers",
+        "sizeId": 8100,
+        "month": "2020-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "all inclusive resorts",
+        "sizeId": 135000,
+        "month": "2020-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "best carry on luggage",
+        "sizeId": 9900,
+        "month": "2020-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "best flight deals",
+        "sizeId": 18100,
+        "month": "2020-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "booking hotel",
+        "sizeId": 40500,
+        "month": "2020-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "carry on bag",
+        "sizeId": 14800,
+        "month": "2020-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "carry on luggage",
+        "sizeId": 60500,
+        "month": "2020-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "cheap plane tickets",
+        "sizeId": 90500,
+        "month": "2020-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "cheap tickets",
+        "sizeId": 550000,
+        "month": "2020-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "cheap vacations",
+        "sizeId": 27100,
+        "month": "2020-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "cruise",
+        "sizeId": 550000,
+        "month": "2020-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "expedia flights",
+        "sizeId": 301000,
+        "month": "2020-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "flights",
+        "sizeId": 6120000,
+        "month": "2020-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "garment bag",
+        "sizeId": 22200,
+        "month": "2020-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "global travel",
+        "sizeId": 3600,
+        "month": "2020-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "last minute hotels",
+        "sizeId": 14800,
+        "month": "2020-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "luggage store",
+        "sizeId": 6600,
+        "month": "2020-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "places to visit",
+        "sizeId": 14800,
+        "month": "2020-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "plane tickets",
+        "sizeId": 823000,
+        "month": "2020-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "transport department",
+        "sizeId": 1300,
+        "month": "2020-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "travel agency",
+        "sizeId": 74000,
+        "month": "2020-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "travel agency near me",
+        "sizeId": 40500,
+        "month": "2020-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "travel guide",
+        "sizeId": 5400,
+        "month": "2020-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "travel insurance",
+        "sizeId": 450000,
+        "month": "2020-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "travel news",
+        "sizeId": 18100,
+        "month": "2020-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "travel service",
+        "sizeId": 1600,
+        "month": "2020-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "travelocity",
+        "sizeId": 2240000,
+        "month": "2020-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "wedding venues",
+        "sizeId": 135000,
+        "month": "2020-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "air ticket",
+        "sizeId": 74000,
+        "month": "2019-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "airport transfers",
+        "sizeId": 14800,
+        "month": "2019-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "all inclusive resorts",
+        "sizeId": 246000,
+        "month": "2019-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "best carry on luggage",
+        "sizeId": 33100,
+        "month": "2019-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "best flight deals",
+        "sizeId": 22200,
+        "month": "2019-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "booking hotel",
+        "sizeId": 60500,
+        "month": "2019-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "carry on bag",
+        "sizeId": 27100,
+        "month": "2019-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "carry on luggage",
+        "sizeId": 135000,
+        "month": "2019-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "cheap plane tickets",
+        "sizeId": 90500,
+        "month": "2019-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "cheap tickets",
+        "sizeId": 673000,
+        "month": "2019-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "cheap vacations",
+        "sizeId": 49500,
+        "month": "2019-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "cruise",
+        "sizeId": 550000,
+        "month": "2019-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "expedia flights",
+        "sizeId": 1000000,
+        "month": "2019-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "flights",
+        "sizeId": 5000000,
+        "month": "2019-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "garment bag",
+        "sizeId": 49500,
+        "month": "2019-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "global travel",
+        "sizeId": 4400,
+        "month": "2019-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "last minute hotels",
+        "sizeId": 33100,
+        "month": "2019-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "luggage store",
+        "sizeId": 14800,
+        "month": "2019-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "places to visit",
+        "sizeId": 18100,
+        "month": "2019-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "plane tickets",
+        "sizeId": 550000,
+        "month": "2019-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "transport department",
+        "sizeId": 1600,
+        "month": "2019-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "travel agency",
+        "sizeId": 165000,
+        "month": "2019-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "travel agency near me",
+        "sizeId": 110000,
+        "month": "2019-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "travel guide",
+        "sizeId": 6600,
+        "month": "2019-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "travel insurance",
+        "sizeId": 301000,
+        "month": "2019-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "travel news",
+        "sizeId": 4400,
+        "month": "2019-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "travel service",
+        "sizeId": 1600,
+        "month": "2019-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "travelocity",
+        "sizeId": 3350000,
+        "month": "2019-03-01T05:00:00.000Z"
+    },
+    {
+        "topicId": "Travel & Tourism",
+        "keywordId": "wedding venues",
+        "sizeId": 135000,
+        "month": "2019-03-01T05:00:00.000Z"
+    }
+]
